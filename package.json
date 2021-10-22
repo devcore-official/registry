@@ -1,0 +1,19 @@
+{
+  "name": "registry",
+  "version": "1.0.0",
+  "description": "everything todo with code get's registered and must meet design guidelines here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcore-official/registry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcore-official/registry/issues"
+  },
+  "homepage": "https://github.com/devcore-official/registry#readme"
+}
