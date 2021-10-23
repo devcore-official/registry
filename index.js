@@ -7,6 +7,7 @@ module.exports = class Registry {
 			head,tails,and latest vs specifc
 			-- if using funC or highest abstraction, optionally can upgrade
 			to next highest abstraction as the software ages.
+
 		*/
 		{name: "param", min:0, max: 50, chars:"a-z"},
 			// {extends: "param"  		name:"namespace"},
