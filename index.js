@@ -14,7 +14,7 @@ module.exports = class Registry {
 			// {extends: "param", 		name:"model"},
 			// {extends: "param", 		name:"protocol"},
 			// {extends: "param", 	  	name:"url"},
-		// {name: "program"}
+	 	// {name: "program"}
 		{name: "function"},
 			{extends: "function",	name:"speC"},
 			{extends: "function",	name:"blocK"},
